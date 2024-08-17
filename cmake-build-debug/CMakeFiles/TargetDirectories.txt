@@ -1,0 +1,3 @@
+C:/ProjectSource/myFirstC++Project/cmake-build-debug/CMakeFiles/myFirstC__Project.dir
+C:/ProjectSource/myFirstC++Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ProjectSource/myFirstC++Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
