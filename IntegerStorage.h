@@ -1,0 +1,14 @@
+//
+// Created by PC_1M on 2024-11-09.
+//
+
+#ifndef MYFIRSTC__PROJECT_INTEGERSTORAGE_H
+#define MYFIRSTC__PROJECT_INTEGERSTORAGE_H
+
+
+class IntegerStorage {
+
+};
+
+
+#endif //MYFIRSTC__PROJECT_INTEGERSTORAGE_H
